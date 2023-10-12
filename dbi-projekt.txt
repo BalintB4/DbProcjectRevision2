@@ -1,0 +1,55 @@
+Teamname: ERD-Spezialisten
+
+3 Wochen
+
+Team:
+Schnalzenberger	Teamleiter
+Sonnleitner	Stellvertreter
+Seifrid
+Balindt
+
+Daten:
+Synthetic lethality databases: https://synlethdb.sist.shanghaitech.edu.cn/#/download
+Orthology databases: https://omabrowser.org/oma/genomePW/
+Essential genes: https://v3.ogee.info/#/downloads
+
+
+ERD and relational database (according to ERD)
+--> with at least 2 organisms (Mensch und noch etwas (Bsp.:Maus -> vielleicht Maus, da es die größte Zellüberschneidung mit uns hat))
+
+write a professional documentation (adoc?) about assumptions and decisions you have made and include who was responsible for what in your project work
+
+make appointments with Prof. Ivcevic to ask questions
+--> write down information and questions
+
+es werden keine speziellen Rechte benötigt
+
+Datenbank ist egal (es geht auch SQLITE)
+
+
+Theme: Krebs (=mutierte Zellen vermehren sich, obwohl sie es nicht sollen)
+
+	DNA überall gleich -> Unterscheidung mit Genen
+
+	Synthetische Lethalität: Ist-Zustand: Gen A, Gen B
+				 Wenn beide Gesund sind lebt die Zelle
+				 Wenn ein Gen Weg ist kann die Zelle noch leben
+				 Wenn beide "deaktiviert" sind stirbt die Zelle
+				 Weitere Infos in der Doku
+
+	Essentielle Gene: Gene die Essentiell für die Zelle ist -> wenn sie stirbt, stirbt die Zelle
+
+	Forschung werden an Tieren (Bsp.: Mäusen) durchgeführt.
+	Dafür gibt es Forschungen, die vergleichen, welche Gene zwischen den
+	Menschen und Tieren gleich sind
+
+Wir müssen mit der Datenbank herausfinden, welche Gene synthetisch Lethal sind.
+--> Prozentuelle Angaben (80% das die Zelle stirbt, wenn Gen A "ausgeschalten" wird)
+Wie sollen die Ergebnisse gespeichert/ausgegeben werden? - log von pl/sql
+PL/SQL und trigger? - PL/SQL, in das man ein Gen eingibt und welches dann die Daten dazu in der Console ausgibt
+Das ist alles in unseren Daten
+
+
+Daten importieren: SQL-developer -> Tabellen (rechtsklick) -> Daten importieren -> Datei auswählen
+Daten formatieren und fehlerhafte Daten rauslöschen (durchs interpretieren können fehlerhafte Daten entstehen)
+
