@@ -18,9 +18,23 @@ https://omabrowser.org/oma/genomePW/
 Essentielle Gene:
 https://v3.ogee.info/#/downloads
 
+
+[plantuml,ucd,png]
+----
+include::plantuml/ERD.puml[]
+----
+
+Orthology: ist nur wichtig, welche gene in der Maus und im Menschen ortholog sind und wie sie es sind(type)
+
+SynLeth: müssen wir wissen, welches Gen Synthetisch Lethal zu welchem anderen sind (mit dem Score zu wie viel Prozent sie es sind)
+
+Essential Genes: wir wollen nur wissen, welche Gene Essentiell sind, um sie auszusortieren. Alles andere ist unwichtig.
+
 == TODO:
 ERD und relationale Datenbank
 -> mit zumindest 2 Organismen (Mensch und Maus)
+
+Endprodukt Query (wie auf dem Zettel in der Mappe von Schnalzenberger)
 
 ====
 write a professional documentation about assumptions and decisions you have made and include who was responsible for what in your project work
@@ -31,6 +45,14 @@ write a professional documentation about assumptions and decisions you have made
 make appointments with Prof. Ivcevic to ask questions
 -> write down information and questions
 ====
+
+Essential Genes Tabelle -> was bedeutet ncbi_id und ensembl
+
+Orthology -> was ist der type?
+
+SynLeth -> was ist statistic_score und cell line
+
+OMA -> was für ids brauchen wir
 
 
 == Infos:
@@ -64,7 +86,7 @@ Wir müssen mit der Datenbank herausfinden, welche Gene synthetisch Lethal sind.
 
 Wie sollen die Ergebnisse gespeichert/ausgegeben werden? - log von pl/sql
 
-PL/SQL und trigger? - PL/SQL, in das man ein Gen eingibt und welches dann die Daten dazu in der Console ausgibt
+PL/SQL und trigger? - PL/SQL, in das man ein Gen eingibt und welches dann die Daten dazu in der Console ausgibt -> weitere infos auf zettel
 
 Das ist alles in unseren Daten
 
