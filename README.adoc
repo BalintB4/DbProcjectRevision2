@@ -24,7 +24,7 @@ https://v3.ogee.info/#/downloads
 include::plantuml/ERD.puml[]
 ----
 
-Orthology: ist nur wichtig, welche gene in der Maus und im Menschen ortholog sind und wie sie es sind(type)
+Orthology: ist nur wichtig, welche gene in der Maus, dem Wurm (Caenorhabditis elegans (CAEEL)) und im Menschen ortholog sind und wie sie es sind(type)
 
 SynLeth: müssen wir wissen, welches Gen Synthetisch Lethal zu welchem anderen sind (mit dem Score zu wie viel Prozent sie es sind)
 
@@ -89,6 +89,13 @@ Wie sollen die Ergebnisse gespeichert/ausgegeben werden? - log von pl/sql
 PL/SQL und trigger? - PL/SQL, in das man ein Gen eingibt und welches dann die Daten dazu in der Console ausgibt -> weitere infos auf zettel
 
 Das ist alles in unseren Daten
+
+NCBI = entrez
+-> entrez wird verwendet
+
+*Gene-Tabelle* mit allen Genen anstatt von einzelnen für alle einzelnen Tiere
+
+Ein weiteres Tier
 
 
 == Importieren von Daten im SQL-developer
