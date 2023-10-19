@@ -1,27 +1,32 @@
 @startuml
-entity MouseGenes {
+entity GeneTypeLookup {
+    gene_type_id number
+    gene_type varchar2
+}
+
+entity Genes {
     gene_id varchar2
     gene_name varchar2
+    gene_typ_id number
 }
 
 entity Orthology {
-    mouse_id varchar2
-    human_id varchar2
-    orthology_type varchar2
+    gene1_id varchar2
+    gene2_id varchar2
+    gene1_type_id number
+    gene2_type_id number
 }
 
 entity SyntheticLethality {
     gene1_id varchar2
     gene2_id varchar2
-    cell_line varchar2
+    gene_type_id number
     statistic_score number
 }
 
 entity EssentialGenes {
-    gene varchar2
+    gene_id varchar2
 }
-Orthology }|--|| MouseGenes
-MouseGenes ||-r-o| EssentialGenes
-MouseGenes ||--o{ SyntheticLethality : "gen 2"
-MouseGenes ||--o{ SyntheticLethality : "gen 1"
+
+
 @enduml
