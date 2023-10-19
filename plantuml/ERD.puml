@@ -4,7 +4,7 @@ entity GeneTypeLookup {
     gene_type varchar2
 }
 
-entity Genes {
+entity Gene {
     gene_id varchar2
     gene_name varchar2
     gene_typ_id number
@@ -28,5 +28,14 @@ entity EssentialGenes {
     gene_id varchar2
 }
 
+GeneTypeLookup ||--|{ Gene
+GeneTypeLookup ||-l-|{ Orthology : "type 2"
+GeneTypeLookup ||--|{ Orthology : "type 1"
+Gene ||-l-o{ Orthology : "gene 1"
+Gene ||--o{ Orthology : "gene 2"
+GeneTypeLookup ||--|{ SyntheticLethality
+Gene ||-r-o{ SyntheticLethality : "gene 2"
+Gene ||--o{ SyntheticLethality : "gene 1"
+Gene ||--o| EssentialGenes
 
 @enduml
