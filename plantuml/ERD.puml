@@ -7,21 +7,18 @@ entity GeneTypeLookup {
 entity Gene {
     gene_id varchar2
     gene_name varchar2
-    gene_typ_id number
+    gene_type_id number
 }
 
 entity Orthology {
     gene1_id varchar2
     gene2_id varchar2
-    gene1_type_id number
-    gene2_type_id number
 }
 
 entity SyntheticLethality {
     gene1_id varchar2
     gene2_id varchar2
-    gene_type_id number
-    statistic_score number
+    score number
 }
 
 entity EssentialGenes {
@@ -29,13 +26,10 @@ entity EssentialGenes {
 }
 
 GeneTypeLookup ||--|{ Gene
-GeneTypeLookup ||-l-|{ Orthology : "type 2"
-GeneTypeLookup ||--|{ Orthology : "type 1"
 Gene ||-l-o{ Orthology : "gene 1"
 Gene ||--o{ Orthology : "gene 2"
-GeneTypeLookup ||--|{ SyntheticLethality
-Gene ||-r-o{ SyntheticLethality : "gene 2"
-Gene ||--o{ SyntheticLethality : "gene 1"
+Gene ||-r-o{ SyntheticLethality : "gene 1"
+Gene ||--o{ SyntheticLethality : "gene 2"
 Gene ||--o| EssentialGenes
 
 @enduml
