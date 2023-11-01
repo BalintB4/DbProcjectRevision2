@@ -6,7 +6,7 @@ Team:
 Schnalzenberger	Teamleiter
 Sonnleitner	Stellvertreter
 Seifrid
-Balindt
+Balazs
 
 Daten:
 Synthetic lethality databases: https://synlethdb.sist.shanghaitech.edu.cn/#/download
