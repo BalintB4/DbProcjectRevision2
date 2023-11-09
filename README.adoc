@@ -24,8 +24,17 @@ https://v3.ogee.info/#/downloads
 include::plantuml/ERD.puml[]
 ----
 
+In der EssentialGenes Tabelle stehen nur die Gene, welche Essenziell sind.
+
+In der Orthology Tabelle stehen die Gene, die zueinander "passen" (orthology). Also zum Beispiel ein Maus-Gen mit einem Menschen-Gen. Was für ein Typ Gen das ist, können wir dann in der Gene Tabelle herausfinden.
+
+Genetypelookup ist einfach damit wir nicht immer 'Mensch' oder 'Maus' schreiben müssen und damit können wir potenzielle Tipp-Fehler verhindern.
+
+In der SynthethicLethality Tabelle stehen 2 Gene, die Zueinander synthetisch Lethal sind mit dem jeweiligen score.
+
 Orthology: ist nur wichtig, welche gene in der Maus, dem Wurm (Caenorhabditis elegans (CAEEL)) und im Menschen ortholog sind und wie sie es sind(type)
 
+=== Data Gedankengänge
 SynLeth: müssen wir wissen, welches Gen Synthetisch Lethal zu welchem anderen sind (mit dem Score zu wie viel Prozent sie es sind)
 
 Essential Genes: wir wollen nur wissen, welche Gene Essentiell sind, um sie auszusortieren. Alles andere ist unwichtig.
