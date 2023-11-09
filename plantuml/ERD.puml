@@ -6,7 +6,6 @@ entity GeneTypeLookup {
 
 entity Gene {
     gene_id varchar2
-    gene_name varchar2
     gene_type_id number
 }
 
