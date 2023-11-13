@@ -33601,8 +33601,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171700', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188042', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188043', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('24104785', 2);
- 
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('192055', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183595', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185112', 2);
@@ -33655,15 +33653,12 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177896', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178563', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178572', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179046', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185840', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179771', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185268', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174965', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178966', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182128', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190566', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171689', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181131', 2);
@@ -33672,7 +33667,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('7040127', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181274', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178874', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181417', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176983', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181562', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('266878', 2);
@@ -33708,7 +33702,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176609', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175162', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175121', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181054', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176043', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172552', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175906', 2);
@@ -33720,14 +33713,12 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184405', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172118', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180760', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175281', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177286', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171643', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178158', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178397', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176674', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181227', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180837', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176094', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175573', 2);
@@ -33770,14 +33761,11 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181444', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177295', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181124', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181329', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188274', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191699', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177714', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177636', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181495', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175852', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188041', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181344', 2);
@@ -33812,10 +33800,8 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181109', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('6418622', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176291', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178127', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174648', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175089', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182929', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180769', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177236', 2);
@@ -33844,12 +33830,10 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178821', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180420', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181233', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172238', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174381', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174207', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180386', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183230', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172250', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176052', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176580', 2);
@@ -33880,7 +33864,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179364', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180207', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171804', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171877', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179611', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180039', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177059', 2);
@@ -33892,7 +33875,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179503', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178777', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179072', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179013', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180949', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191632', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178278', 2);
@@ -33917,7 +33899,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178942', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178620', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179801', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179400', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183769', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3564773', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184865', 2);
@@ -33952,7 +33933,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565999', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181255', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177900', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182681', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181759', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('36805044', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171789', 2);
@@ -33970,7 +33950,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565336', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174542', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176578', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175953', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176476', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180819', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177657', 2);
@@ -33979,7 +33958,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175079', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180740', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565633', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172138', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173442', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('259544', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182835', 2);
@@ -33987,7 +33965,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180325', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179488', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175656', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172515', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180069', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173915', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171593', 2);
@@ -34077,7 +34054,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178634', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171792', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173073', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172036', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173955', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174261', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176321', 2);
@@ -34124,7 +34100,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176343', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175346', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179361', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179362', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182851', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184882', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185036', 2);
@@ -34146,7 +34121,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179392', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178191', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173200', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176296', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172183', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175237', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175432', 2);
@@ -34203,7 +34177,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('259365', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177073', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182643', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177056', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178468', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176103', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175887', 2);
@@ -34250,12 +34223,10 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178962', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175691', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187001', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175956', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177054', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182354', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176370', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182575', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190821', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176698', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178229', 2);
@@ -34266,7 +34237,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175862', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176552', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181492', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176560', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172943', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181455', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185876', 2);
@@ -34335,7 +34305,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179201', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188387', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173027', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175189', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177667', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181669', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174101', 2);
@@ -34360,9 +34329,7 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179520', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178599', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177875', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('259626', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179039', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179259', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181658', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180525', 2);
@@ -34420,7 +34387,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179772', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172518', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172938', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174091', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172910', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178834', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177113', 2);
@@ -34431,7 +34397,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179445', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177486', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179109', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178348', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('259584', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172886', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181692', 2);
@@ -34468,10 +34433,8 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565605', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177562', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177408', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174571', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186392', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178993', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178919', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173602', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('13216595', 2);
@@ -34494,7 +34457,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179091', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179707', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('259655', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189157', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172725', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187017', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174671', 2);
@@ -34555,7 +34517,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173142', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180245', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179667', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178872', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182010', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177586', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175418', 2);
@@ -34563,13 +34524,10 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176885', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171785', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172411', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176498', 2);
- 
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191599', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179235', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177415', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172646', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175651', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177324', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177370', 2);
@@ -34603,7 +34561,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179405', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182313', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186188', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171608', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178770', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189421', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178374', 2);
@@ -34615,10 +34572,8 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177256', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178031', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178036', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183582', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181558', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172483', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172815', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173223', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171719', 2);
@@ -34654,7 +34609,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173064', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171872', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172074', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173372', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175562', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171766', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171650', 2);
@@ -34669,7 +34623,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178437', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565681', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173393', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172233', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183905', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('266817', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171756', 2);
@@ -34680,7 +34633,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172628', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173383', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172420', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178361', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172941', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172535', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184174', 2);
@@ -34714,12 +34666,10 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171683', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174095', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172432', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190602', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('192082', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187635', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190071', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175410', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172851', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173767', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176950', 2);
@@ -34752,7 +34702,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178964', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178965', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175244', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178559', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176383', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187779', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176272', 2);
@@ -34803,18 +34752,14 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3564879', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176860', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171856', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171838', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174305', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175561', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183221', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180660', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172858', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172171', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179559', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175398', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178256', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179662', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184219', 2);
@@ -34828,7 +34773,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176180', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173738', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176743', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171670', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174175', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174000', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565862', 2);
@@ -34842,7 +34786,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172249', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180223', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176304', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172505', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172657', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173947', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('259580', 2);
@@ -34897,7 +34840,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177318', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190780', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174183', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175108', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188872', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172486', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183902', 2);
@@ -34931,7 +34873,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173812', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176454', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176758', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176341', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175685', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177550', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182278', 2);
@@ -34942,7 +34883,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188008', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185033', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190258', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180346', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181248', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181554', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173414', 2);
@@ -34983,20 +34923,16 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185682', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177241', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175087', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565275', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188364', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176574', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180723', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191004', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176163', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180435', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176215', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175915', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174557', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174964', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181577', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186954', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180311', 2);
@@ -35023,12 +34959,10 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('259861', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180921', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171879', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176044', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175972', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175521', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175819', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173439', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190940', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565184', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172893', 2);
@@ -35046,10 +34980,8 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180756', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176196', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191500', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172029', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174825', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175393', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190869', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180430', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('266853', 2);
@@ -35101,7 +35033,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183652', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176349', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175994', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174218', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176511', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186814', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171731', 2);
@@ -35120,7 +35051,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176712', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565956', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175853', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176040', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173370', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('4363033', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186343', 2);
@@ -35195,7 +35125,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185334', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172715', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('245995', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191003', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184431', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175105', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172149', 2);
@@ -35235,7 +35164,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174789', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171692', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176756', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171897', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172442', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172799', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171881', 2);
@@ -35245,7 +35173,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172039', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172393', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171618', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175387', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172748', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178754', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172623', 2);
@@ -35253,7 +35180,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('24105155', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173734', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171734', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174647', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172412', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188313', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187542', 2);
@@ -35279,7 +35205,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172743', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182284', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177253', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171788', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174685', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176007', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172966', 2);
@@ -35310,7 +35235,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181004', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172302', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174506', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176975', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185872', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190941', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174346', 2);
@@ -35320,7 +35244,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565022', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174374', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172180', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180809', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181644', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178145', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179689', 2);
@@ -35349,11 +35272,9 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174785', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187083', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179920', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180016', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184307', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565407', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172812', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175649', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177865', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174140', 2);
@@ -35405,7 +35326,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173100', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183841', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183935', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183413', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175574', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171704', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173158', 2);
@@ -35415,7 +35335,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172343', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177846', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175987', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176565', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180555', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179178', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186176', 2);
@@ -35449,14 +35368,12 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174431', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174620', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180976', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179705', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172867', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179639', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182490', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180263', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184091', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172788', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177901', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177135', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179193', 2);
@@ -35481,7 +35398,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176030', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176826', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171800', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172146', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181252', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174699', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175829', 2);
@@ -35532,7 +35448,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173990', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174093', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176772', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177249', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173638', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174482', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173510', 2);
@@ -35561,7 +35476,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175100', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176003', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183963', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172510', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172120', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180704', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176715', 2);
@@ -35574,7 +35488,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172647', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565337', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173062', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172267', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176754', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172187', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565128', 2);
@@ -35590,7 +35503,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174332', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174963', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176888', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182693', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172015', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181319', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172390', 2);
@@ -35613,7 +35525,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176344', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172449', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172624', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174981', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174364', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175536', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178084', 2);
@@ -35678,7 +35589,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174155', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180079', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173655', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181093', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173346', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173979', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('24104866', 2);
@@ -35709,7 +35619,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565972', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174279', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174737', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179813', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172355', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('192052', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177838', 2);
@@ -35740,7 +35649,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176650', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182524', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172321', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175572', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185541', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176491', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177954', 2);
@@ -35750,7 +35658,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180027', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185332', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186326', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191670', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179340', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186325', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176890', 2);
@@ -35785,7 +35692,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172434', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179177', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172478', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173581', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172945', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172204', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174736', 2);
@@ -35807,12 +35713,10 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175813', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185679', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176056', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178160', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171957', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176106', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565210', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179544', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177431', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177765', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176837', 2);
@@ -35823,8 +35727,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178168', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180538', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180664', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176800', 2);
- 
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178452', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174417', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180980', 2);
@@ -35833,7 +35735,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183522', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180611', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181210', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181410', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175950', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190455', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190409', 2);
@@ -35863,14 +35764,11 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188252', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185381', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('246019', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190374', 2);
- 
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174777', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181990', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180772', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('192071', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173777', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172574', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179912', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176883', 2);
@@ -35883,7 +35781,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174974', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178791', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176293', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179036', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179852', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178416', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176256', 2);
@@ -35919,7 +35816,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172978', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3896860', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178842', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173808', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172494', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172495', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179442', 2);
@@ -35927,7 +35823,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181528', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175913', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175724', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174024', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187811', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177296', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188241', 2);
@@ -36112,7 +36007,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179434', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176268', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177661', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179617', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565829', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189194', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('24104220', 2);
@@ -36164,7 +36058,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173403', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181393', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565940', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172901', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180824', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178285', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175525', 2);
@@ -36247,7 +36140,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179572', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179068', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174778', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178067', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190457', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172652', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171834', 2);
@@ -36341,7 +36233,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180165', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187516', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172070', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175637', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177440', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175242', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176458', 2);
@@ -36382,13 +36273,11 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176796', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186979', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175959', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177576', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175070', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175247', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176680', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181944', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172089', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174372', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189836', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176540', 2);
@@ -36407,7 +36296,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175877', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191741', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175748', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180464', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185500', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175591', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173072', 2);
@@ -36435,7 +36323,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178404', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191770', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178005', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171836', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176918', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174443', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183226', 2);
@@ -36470,14 +36357,12 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181020', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188905', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180369', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172499', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176775', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190251', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177484', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175772', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179357', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179626', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172779', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177530', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177339', 2);
@@ -36497,7 +36382,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178149', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176914', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177804', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191707', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176923', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177571', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177767', 2);
@@ -36510,7 +36394,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177216', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177906', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174390', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177102', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176855', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177108', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178233', 2);
@@ -36582,7 +36465,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174606', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185097', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189866', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184575', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174672', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177028', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179643', 2);
@@ -36620,7 +36502,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186262', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174514', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174476', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179309', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175738', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180745', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173966', 2);
@@ -36638,12 +36519,10 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182275', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180452', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180518', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173248', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181310', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179854', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180712', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181765', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179745', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177386', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180022', 2);
@@ -36655,7 +36534,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176762', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175771', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179498', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174691', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191342', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176071', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3564813', 2);
@@ -36678,7 +36556,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175613', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173772', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173625', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174998', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174507', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188885', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181413', 2);
@@ -36722,7 +36599,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180097', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181235', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181236', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176154', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178072', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181169', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178173', 2);
@@ -36742,7 +36618,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190242', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181028', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565589', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183139', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175944', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565580', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176733', 2);
@@ -36765,7 +36640,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178930', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180086', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176133', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180550', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184442', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180561', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178065', 2);
@@ -36777,7 +36651,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173910', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174313', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174362', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184827', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171697', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191607', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174471', 2);
@@ -36792,13 +36665,11 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172706', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174559', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181140', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176608', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172301', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177139', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179406', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174724', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174846', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179027', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174097', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181727', 2);
@@ -36814,7 +36685,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183993', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174843', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173225', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174525', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174646', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173299', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171784', 2);
@@ -36829,13 +36699,11 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173232', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172940', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178216', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171791', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171775', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172207', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173340', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178188', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190078', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182131', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189457', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171685', 2);
@@ -36846,14 +36714,12 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177996', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173212', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186873', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171711', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178314', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172615', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174999', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180434', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175793', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171691', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175820', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182237', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178169', 2);
@@ -36869,7 +36735,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178117', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177170', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176943', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173639', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178873', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177540', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178021', 2);
@@ -36879,7 +36744,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175547', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177978', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176090', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186378', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175538', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174150', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187239', 2);
@@ -36898,7 +36762,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179812', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179825', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180529', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181308', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175524', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176006', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177979', 2);
@@ -36915,7 +36778,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172965', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179443', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175372', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175659', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179467', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180517', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175187', 2);
@@ -36946,7 +36808,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171865', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171883', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175787', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183292', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175493', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174991', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173276', 2);
@@ -36965,7 +36826,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180852', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175117', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178431', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172871', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189536', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174333', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172216', 2);
@@ -36977,7 +36837,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172124', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181671', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176282', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181640', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180486', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181018', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178408', 2);
@@ -37032,9 +36891,7 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177213', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171712', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176872', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172539', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177678', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174997', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176227', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174023', 2);
@@ -37089,7 +36946,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172612', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178981', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182108', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180370', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177294', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188022', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190298', 2);
@@ -37160,7 +37016,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175936', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180812', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171727', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180126', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175537', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175664', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191275', 2);
@@ -37174,7 +37029,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('4363028', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175284', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179830', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('184935', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565442', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176368', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178151', 2);
@@ -37214,13 +37068,10 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177393', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3564936', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177821', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176842', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177786', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('185022', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173811', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174596', 2);
- 
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172924', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177424', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183743', 2);
@@ -37286,7 +37137,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190979', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177512', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176840', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191713', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180534', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171710', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176836', 2);
@@ -37318,7 +37168,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173216', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174761', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176397', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179336', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181211', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172921', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182812', 2);
@@ -37339,7 +37188,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183056', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172067', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190011', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175715', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171887', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172479', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172915', 2);
@@ -37374,7 +37222,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174245', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565440', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174012', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175080', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172730', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188307', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174726', 2);
@@ -37382,7 +37229,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173260', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172834', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174252', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3565222', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181324', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173257', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173341', 2);
@@ -37391,7 +37237,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('190668', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179242', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175902', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180589', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189639', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175506', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3564910', 2);
@@ -37409,7 +37254,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172926', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187789', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173109', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172756', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('36805006', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177378', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172330', 2);
@@ -37435,8 +37279,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173912', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172191', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191291', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174669', 2);
- 
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175457', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('189905', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181863', 2);
@@ -37466,7 +37308,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174203', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180880', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182286', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178279', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173023', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175842', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181317', 2);
@@ -37477,7 +37318,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('171966', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('13191153', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180603', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175249', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172045', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176028', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178445', 2);
@@ -37511,11 +37351,7 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180314', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176346', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176347', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('2565698', 2);
- 
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('2565701', 2);
- 
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179372', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181721', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172172', 2);
@@ -37535,10 +37371,8 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176616', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175083', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173471', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('186453', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188736', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181526', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177855', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175543', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180904', 2);
@@ -37563,7 +37397,6 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('13188172', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('3564990', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180873', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179890', 2);
- 
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176773', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176589', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179976', 2);
@@ -37580,3 +37413,54 @@ INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174311', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176504', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173141', 2);
 INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174358', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179948', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172082', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177757', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180055', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172831', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172768', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175559', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172784', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188457', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172438', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175097', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177018', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187445', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181714', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176008', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173788', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183457', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175962', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172636', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('182958', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172819', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('173794', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183773', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177929', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178728', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('180048', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174556', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178025', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176755', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('187843', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174579', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174055', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('175255', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174622', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('178495', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172929', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177643', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181957', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172507', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('191511', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('179967', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('177879', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('176449', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172801', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('181259', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('188535', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('183047', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172323', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('259585', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('172333', 2);
+INSERT INTO GENE (gene_id, gene_type_id) VALUES ('174516', 2);

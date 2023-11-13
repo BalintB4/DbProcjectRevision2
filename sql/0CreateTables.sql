@@ -1,12 +1,11 @@
 CREATE TABLE GeneTypeLookup (
-    gene_type_id varchar2(4) primary key,
+    gene_type_id varchar2(4) PRIMARY KEY,
     gene_type varchar2(15)
 );
 
 CREATE TABLE Gene (
-    gene_id varchar2(10),
+    gene_id varchar2(10) PRIMARY KEY,
     gene_type_id varchar2(4),
-    CONSTRAINT pk_gene_ids PRIMARY KEY(gene_id, gene_type_id),
     CONSTRAINT fk_gene_gene_type FOREIGN KEY(gene_type_id) REFERENCES GeneTypeLookup(gene_type_id)
 );
 
