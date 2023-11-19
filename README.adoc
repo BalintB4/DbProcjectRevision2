@@ -34,7 +34,7 @@ In der SynthethicLethality Tabelle stehen 2 Gene, die Zueinander synthetisch Let
 
 Orthology: ist nur wichtig, welche gene in der Maus, dem Wurm (Caenorhabditis elegans (CAEEL)) und im Menschen ortholog sind und wie sie es sind(type)
 
-=== Data Gedankengänge
+=== Daten Gedankengänge
 SynLeth: müssen wir wissen, welches Gen Synthetisch Lethal zu welchem anderen sind (mit dem Score zu wie viel Prozent sie es sind)
 
 Essential Genes: wir wollen nur wissen, welche Gene Essentiell sind, um sie auszusortieren. Alles andere ist unwichtig.
@@ -43,26 +43,11 @@ Essential Genes: wir wollen nur wissen, welche Gene Essentiell sind, um sie ausz
 ERD und relationale Datenbank
 -> mit zumindest 2 Organismen (Mensch und Maus)
 
-Endprodukt Query (wie auf dem Zettel in der Mappe von Schnalzenberger)
+Endprodukt Query
 
 ====
 write a professional documentation about assumptions and decisions you have made and include who was responsible for what in your project work
 ====
-
-== Fragen:
-====
-make appointments with Prof. Ivcevic to ask questions
--> write down information and questions
-====
-
-Essential Genes Tabelle -> was bedeutet ncbi_id und ensembl
-
-Orthology -> was ist der type?
-
-SynLeth -> was ist statistic_score und cell line
-
-OMA -> was für ids brauchen wir
-
 
 == Infos:
 
