@@ -111,4 +111,20 @@ Ein weiteres Tier
 SQL-developer -> Tabellen (rechtsklick) -> Daten importieren -> Datei auswählen
 Daten formatieren und fehlerhafte Daten rauslöschen (durchs interpretieren können fehlerhafte Daten entstehen)
 
+== Insert Statements
+Folder: /sql
 
+Darin sind alle Insert-Scripts und ein DropTable- und ein CreateTables-Script
+
+Bei den Insert Statements benutzen wir:
+
+----
+INSERT ALL
+    INTO <table> (<val1>, <val2>) VALUES ('abc', 0)
+    INTO <table> (<val1>, <val2>) VALUES ('bcd', 0)
+SELECT 1 FROM DUAL;
+----
+
+Dies macht die db-inserts schneller, da viele auf einmal auf den Server-hochgeladen werden und dazu noch weniger in die Console ausgegeben wird, anstatt das dies für jedes einzeln passiert.
+
+Jedoch gibt es ein limit dafür, weswegen wir die Scripte auf mehrere "INSERT ALL"-Statements aufteilen mussten.
