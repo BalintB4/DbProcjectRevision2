@@ -8,6 +8,13 @@
 :experimental: true
 :linkattrs:
 
+== Team
+
+* Balint Balazs
+* Arwed Schnalzenberger
+* Erik Seifried
+* Lukas Sonnleitner
+
 <<<
 == Daten:
 Synthetische lethalität db:
