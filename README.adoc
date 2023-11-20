@@ -39,16 +39,6 @@ SynLeth: müssen wir wissen, welches Gen Synthetisch Lethal zu welchem anderen s
 
 Essential Genes: wir wollen nur wissen, welche Gene Essentiell sind, um sie auszusortieren. Alles andere ist unwichtig.
 
-== TODO:
-ERD und relationale Datenbank
--> mit zumindest 2 Organismen (Mensch und Maus)
-
-Endprodukt Query
-
-====
-write a professional documentation about assumptions and decisions you have made and include who was responsible for what in your project work
-====
-
 == Infos:
 
 === Infos about the theme
@@ -113,3 +103,10 @@ SELECT 1 FROM DUAL;
 Dies macht die db-inserts schneller, da viele auf einmal auf den Server-hochgeladen werden und dazu noch weniger in die Console ausgegeben wird, anstatt das dies für jedes einzeln passiert.
 
 Jedoch gibt es ein limit dafür, weswegen wir die Scripte auf mehrere "INSERT ALL"-Statements aufteilen mussten.
+
+
+== FINISHED SELECT-STATEMENT
+
+----
+include::sql/SQL-Select-Statement.sql[lines = 56..]
+----
