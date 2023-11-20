@@ -8,6 +8,7 @@
 :experimental: true
 :linkattrs:
 
+<<<
 == Daten:
 Synthetische lethalität db:
 https://synlethdb.sist.shanghaitech.edu.cn/#/download
@@ -104,8 +105,8 @@ Dies macht die db-inserts schneller, da viele auf einmal auf den Server-hochgela
 
 Jedoch gibt es ein limit dafür, weswegen wir die Scripte auf mehrere "INSERT ALL"-Statements aufteilen mussten.
 
-
-== FINISHED SELECT-STATEMENT
+<<<
+== Final Select-Statement
 
 ----
 include::sql/SQL-Select-Statement.sql[lines = 56..]
